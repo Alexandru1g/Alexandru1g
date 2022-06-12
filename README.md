@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandru1g&label=Profile%20views&color=0e75b6&style=flat" alt="alexandru1g" /> </p>
 
-- 🌱 I’m currently learning <a href="https://tryhackme.com/badge/1149635">
+- 🌱 I’m currently learning <p alighn="left"><img src="https://tryhackme.com/badge/1149635"></img></p>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
