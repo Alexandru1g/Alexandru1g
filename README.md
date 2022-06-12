@@ -4,6 +4,9 @@
 
 
 - 🌱 I’m currently learning **Cyber Security / Flutter**
+ 
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Alexandru1g.png" alt="TryHackMe">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,3 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandru1g&show_icons=true&locale=en&layout=compact" alt="alexandru1g" width="250" height="250" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=alexandru1g&show_icons=true&locale=en" alt="alexandru1g" width="300" height="250" /></p>
+
+
